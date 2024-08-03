@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "by.koajla.characters";
+option java_multiple_files = true;
+
+message Page {
+  int32 page = 1;
+}

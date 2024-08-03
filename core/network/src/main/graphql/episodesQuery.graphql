@@ -1,0 +1,13 @@
+query EpisodesWithCharacter($id: ID!) {
+    character(id: $id) {
+        id,
+        name,
+        image,
+        episode {
+            id
+            name,
+            episode,
+            air_date
+        }
+    }
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="last_known_location">Last known location</string>
+    <string name="first_seen_in">First seen in</string>
+</resources>

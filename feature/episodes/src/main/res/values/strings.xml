@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="season">Season</string>
+    <string name="episodes">ep</string>
+    <string name="episode">Episode</string>
+</resources>
